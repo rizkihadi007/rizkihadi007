@@ -1,0 +1,39 @@
+	.card{
+		background-color: #888888;
+	}
+	.card-img{
+		width: 20px;
+		height: 20px;
+	}
+	.card-body{
+		background-color: #3a3a3a;
+		border-radius: 3%;
+	}
+	.navbar{
+		width: 100%;
+		position: fixed-top;
+		background-color: #1c1c1c;
+	}
+	.navbar a{
+		color: white;
+	}
+	.navbar a:hover{
+		color: #b5a39b;
+	}
+	.container{
+		margin-top: 2%;
+	}
+	.col-md-4 a{
+		text-decoration: none;
+		color: white;
+	}
+	.col-md-4 a:hover{
+		color: 
+	}
+	.bg{
+		background: url('photo/background/nature-4034723_1920.jpg') no-repeat fixed ;
+		-webkit-background-size: 100% 100%;
+	    -moz-background-size: 100% 100%;
+	    -o-background-size: 100% 100%;
+	    background-size: 100% 100%;
+	}

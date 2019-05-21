@@ -1,0 +1,35 @@
+	.card{
+		background-color: grey;
+	}
+	.profil{
+		width: 40%;
+		height: 200px;
+		border-radius: 180%;
+	}
+	.card-body{
+		background-color: white;
+		border-radius: 3%;
+	}
+	.container{
+		margin-top: 2%;
+	}
+	.navbar{
+		background-color: #1c1c1c;
+	}
+	.navbar a{
+		color: white;
+	}
+	.navbar a:hover{
+		color: #b5a39b;
+	}
+	.card{
+		margin-top: 3%;
+		margin-left: 10%;
+	}
+	.bg{
+		background: url('photo/background/jungle-4191340_1920.jpg') no-repeat fixed ;
+		-webkit-background-size: 100% 100%;
+	    -moz-background-size: 100% 100%;
+	    -o-background-size: 100% 100%;
+	    background-size: 100% 100%;
+	}
